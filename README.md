@@ -1,6 +1,6 @@
 how to use
 
-first you could run the command below
+first you could run the command >>>
 `pip install pycryptodome`
 
 1.go to file do you want to run
