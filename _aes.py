@@ -5,7 +5,7 @@ from Crypto.Util.Padding import pad
 def gen_aes_key():
     return get_random_bytes(16)
 
-data = b'Warinthorn'
+data = b'add_your_plaintext'
 key = gen_aes_key()
 print("Generated AES Key:", key.hex())
 
