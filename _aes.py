@@ -1,3 +1,8 @@
+""" 
+install 'pycryptodome' library to use DSE by the command below
+`pip install pycryptodome`
+"""
+
 from Crypto.Cipher import AES
 from Crypto.Random import get_random_bytes
 from Crypto.Util.Padding import pad

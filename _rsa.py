@@ -1,3 +1,8 @@
+""" 
+install 'pycryptodome' library to use DSE by the command below
+`pip install pycryptodome`
+"""
+
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
 
